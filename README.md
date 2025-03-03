@@ -1,4 +1,4 @@
-## Hi there, I'm Armin Bonakdar! 👋
+## Hi there, I'm Armin! 👋
 About Me
 
 I'm a Mechanical Engineer with a passion for biomechanics, mechatronics, and machine learning. I earned my M.Sc. in Mechanical Engineering from the University of Alberta, where I graduated with a 4.0/4.0 GPA. Right now, I’m a Research Assistant at NCBLab, diving deep into biomechanical analysis, sensor fusion, and developing AI-driven algorithms for human motion studies. I love solving real-world challenges with Python and cutting-edge technology.
