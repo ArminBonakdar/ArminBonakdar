@@ -7,7 +7,7 @@ Experience & Interests
 
 📌 Research & Development: Motion analysis, biomechanics, and AI-driven algorithms
 
-💡 Machine Learning & Deep Learning: Working with deep learning models (like PyTorch, TensorFlow, and Keras) to optimize signal processing
+💡 Machine Learning & Deep Learning: Working with deep learning models (like PyTorch, TensorFlow, and Keras)
 
 🔧 Technical Skills: Python, sensor integration, data-driven design
 
