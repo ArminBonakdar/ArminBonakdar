@@ -9,8 +9,7 @@ Experience & Interests
 
 💡 Machine Learning & Deep Learning: Working with deep learning models (like PyTorch, TensorFlow, and Keras)
 
-🔧 Technical Skills: Python, sensor integration, data-driven design
-
+🔧 Technical Skills: Python, sensor integration, digital signal processing
 🏀 Beyond Engineering: Basketball lover! Coaching and playing are my favorite ways to stay active.
 
 
